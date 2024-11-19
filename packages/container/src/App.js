@@ -19,6 +19,6 @@ export default () => {
                <MarketingApp />
             </div>
          </StylesProvider>
-         </BrowserRouter>
+     </BrowserRouter>
     )
 }
